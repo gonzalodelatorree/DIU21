@@ -1,7 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
+Grupo: DIU1_Wombats.  Curso: 2020/21 
 Updated: 8/2/2021
 
 Proyecto: 
@@ -15,14 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Gonzalo de la Torre Martínez     :octocat:     
+ * :bust_in_silhouette:   Diego Alfonso Candelaria Rodríguez     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -33,6 +29,10 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
+Hemos elegido para hacer el analisis de competidores las siguientes aplicaciones de gestión de viajes compartidos:
+ - Amovens, BlaBlaCar, Amicoche, SocialCar y Alsa.
+Estas aplicaciones permiten al viajero comprar una plaza de un viaje propuesto y algunas incluyen más funciones.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
