@@ -47,11 +47,10 @@ Estas aplicaciones permiten al viajero comprar una plaza de un viaje propuesto y
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+ - PDF de Revisión de Usabilidad en la carpeta P1.
+ - Valoración final (numérica): 83. 
+ - Comentario sobre la valoración: Según nuestra opinión, la puntuación sería algun punto más baja de lo que ha salido en el   analisis de Usabilidad, pero creemos que la calificación, aunque está un poco por encima de lo que pensamos, es bastante acertada.
 
 
 ## Paso 2. UX Design  
