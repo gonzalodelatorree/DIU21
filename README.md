@@ -34,16 +34,28 @@ Hemos elegido para hacer el analisis de competidores las siguientes aplicaciones
  - Amovens, BlaBlaCar, Amicoche, SocialCar y Alsa.
 Estas aplicaciones permiten al viajero comprar una plaza de un viaje propuesto y algunas incluyen más funciones.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona1.png "Hermengardo") 1.b.1 Persona1
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos tomado a Hermengardo como una persona dentro de nuestro análisis para contemplar el sector de mercado de personas menos acostumbradas a la tecnología, 
+entre las cuales se suelen encontrar los jubilados y en general personas de la tercera edad.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/Persona2.png "Ana González") 1.b.2 Persona2
+-----
+
+Hemos tomado a Ana González, en cambio, para darle representatividad al grupo más numeroso de gente más curtida en el uso de los smartphones y redes sociales, 
+que suele estar compuesto por personas relativamente jóvenes y activas.
+
+![Método UX](img/Journey1.png "Hermengardo") 1.c.1 Journey1
 ----
 
+Dentro del universo de pasos que puede realizar Hermengardo, hemos tomado los que vienen representados en el Journey Map como uno de los flujos 
+más usuales que puede tomar una persona que tiene las características de Hermengardo.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Método UX](img/Journey2.png "Ana González") 1.c.2 Journey2
+----
+
+En el caso de Ana González, seguimos también el patrón que esperamos que una muchacha joven siga para darle uso a la aplicación.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
