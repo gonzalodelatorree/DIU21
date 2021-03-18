@@ -28,8 +28,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 Hemos elegido para hacer el analisis de competidores las siguientes aplicaciones de gestión de viajes compartidos:
  - Amovens, BlaBlaCar, Amicoche, SocialCar y Alsa.
 Estas aplicaciones permiten al viajero comprar una plaza de un viaje propuesto y algunas incluyen más funciones.
@@ -57,7 +55,7 @@ más usuales que puede tomar una persona que tiene las características de Herme
 
 En el caso de Ana González, seguimos también el patrón que esperamos que una muchacha joven siga para darle uso a la aplicación.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.pdf) 1.d Usability Review
 ----
 
  - PDF de Revisión de Usabilidad en la carpeta P1.
