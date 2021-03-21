@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   [Gonzalo de la Torre Martínez] (https://github.com/gonzalodelatorree) :octocat:     
- * :bust_in_silhouette:   [Diego Alfonso Candelaria Rodríguez] (https://github.com/dcandelaria) :octocat:
+ * :bust_in_silhouette:   [Gonzalo de la Torre Martínez](https://github.com/gonzalodelatorree) :octocat:     
+ * :bust_in_silhouette:   [Diego Alfonso Candelaria Rodríguez](https://github.com/dcandelaria) :octocat:
 
 ----- 
 
@@ -28,7 +28,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Hemos elegido para hacer el [analisis de competidores] (https://github.com/gonzalodelatorree/DIU21/blob/master/P1/CompetitiveAnalysis.png) las siguientes aplicaciones de gestión de viajes compartidos:
+Hemos elegido para hacer el [analisis de competidores](https://github.com/gonzalodelatorree/DIU21/blob/master/P1/CompetitiveAnalysis.png) las siguientes aplicaciones de gestión de viajes compartidos:
  - Amovens, BlaBlaCar, Amicoche, SocialCar y Alsa.
 Estas aplicaciones permiten al viajero comprar una plaza de un viaje propuesto y algunas incluyen más funciones.
 Finalmente hemos escogido Amovens para hacer su Análisis.
