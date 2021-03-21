@@ -3,7 +3,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Hemos elegido para hacer el Analisis de Competidores las siguientes aplicaciones de gestión de viajes compartidos:
@@ -28,7 +28,7 @@ Finalmente hemos escogido Amovens para hacer su Análisis.
  
 ![Competitive Analysis](CompetitiveAnalysis.png)
 
-![Método UX](img/Persona.png) 1.b.1 Persona1
+![Método UX](../img/Persona.png) 1.b.1 Persona1
 -----
 
 Hemos tomado a Hermengardo como una persona dentro de nuestro análisis para contemplar el sector de mercado 
@@ -37,7 +37,7 @@ general personas de la tercera edad.
 
 ![Hermengardo](Persona1.png)
 
-![Método UX](img/Persona.png) 1.b.2 Persona2
+![Método UX](../img/Persona.png) 1.b.2 Persona2
 -----
 
 Hemos tomado a Ana González, en cambio, para darle representatividad al grupo más numeroso de gente más 
@@ -54,7 +54,7 @@ el  como uno de los flujos más usuales que puede tomar una persona que tiene la
 
 ![Journey Hermengardo](Journey2.png)
 
-![Método UX](img/JourneyMap.png) 1.c.2 Journey2
+![Método UX](../img/JourneyMap.png) 1.c.2 Journey2
 ----
 
 En el caso de Ana González, seguimos también el patrón que esperamos que una muchacha joven siga para darle 
@@ -62,10 +62,10 @@ uso a la aplicación.
 
 ![Journey Ana](Journey2.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
- ![PDF de Revisión de Usabilidad](UsabilityReview.pdf)
+ - ![PDF de Revisión de Usabilidad](UsabilityReview.pdf)
  - Valoración final (numérica): 83. 
  - Según nuestra opinión, la puntuación sería algun punto más baja de lo que ha salido en el analisis de Usabilidad,
   pero creemos que la calificación, aunque está un poco por encima de lo que pensamos, es bastante acertada.
