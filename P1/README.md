@@ -65,7 +65,7 @@ uso a la aplicación.
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
- - !(UsabilityReview.pdf)
+ - [Usability Review](https://github.com/gonzalodelatorree/DIU21/blob/master/P1/UsabilityReview.pdf)
  - Valoración final (numérica): 83. 
  - Según nuestra opinión, la puntuación sería algun punto más baja de lo que ha salido en el analisis de Usabilidad,
   pero creemos que la calificación, aunque está un poco por encima de lo que pensamos, es bastante acertada.
