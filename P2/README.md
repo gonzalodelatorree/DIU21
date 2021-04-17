@@ -47,6 +47,7 @@ Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+![SiteMap](sitemap.png)
 * Labelling 
 
 
