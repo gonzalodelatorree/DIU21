@@ -4,12 +4,15 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1_Wombats.  Curso: 2020/21 
 Updated: 8/2/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: GeoLAND
 
-Descripción: 
+Descripción: En la provincia de Granada existe un territorio espectacular por su paisaje y por albergar uno de los mejores registros geológicos continentales de los últimos 5 millones de años. Entre otros tesoros, este registro contiene el más completo conjunto de restos fósiles de los grandes mamíferos ya extinguidos que vivieron durante el Periodo Cuaternario (los últimos 2,5 millones de años de la historia de la Tierra, cuando apareció la humanidad sobre el planeta).
 
->>> Describa la idea de su producto en la práctica 2 
+A este territorio espectacular se le ha llamado Geoparque de Granada. En este lugar podemos realizar actividades varias como talleres de ciencia, agricultura, historia... además de deportes al aire libre como paintball, escalada, piragüismo, paramente y muchas más.
+
+Nuestro proyecto nace de la necesidad de un software para gestionar las actividades en el recién implantado Geoparque de Granada. Nuestra aplicación móvil facilitará a los usuarios realizar planificación (y reserva) de actividades. Tambíen proveerá información sobre el sitio y opciones para planificar los viajes más allá del Geoparque. Por ejemplo se podrán reservar packs de actividades en el geoparque y estos packs incluirán visitas a otras zonas de andalucía como La Alhambra, Mezquita de Córdoba...
+
+En definitiva, esta aplicación será un incentivo para el turismo en la provincia y nuestra comunidad autónoma ya que ofrece mucha sencillez y comodidad para poder visitar la zona.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
