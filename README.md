@@ -96,24 +96,26 @@ En el caso de Ana González ([Journey Map](https://github.com/gonzalodelatorree/
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Un User map  es un diagrama nos muestra los pasos que sigue un cliente durante su relación con un servicio o empresa. Por su parte, un Task Flow es un diagrama que muestra el trayecto lógico que debe realizar un usuario para realizar una tarea determinada.
+
+La diferencia entre ellos es que el primero se basa en la relación del cliente con un producto y el segundo en la relación del cliente con un proceso determinado.
+
+Nosotros hemos realizado una [Task Matrix](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#task-analysis)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+Un SiteMap es un grafo que muestra la jerarquía y relaciones de las diferentes pantallas de un sitio web o aplicación. El labelling o etiquetado es la manera en la que asociamos una palabra o icono con su significado o función que realiza. En nuestro caso sirve para mejorar el diseño de nuestras aplicaciones o sitios web (por ejemplo nosotros asociamos un icono de una interrogación al apartado de ayuda de la app).
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Nuestro [SiteMap y Labelling](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#arquitectura-de-informaci%C3%B3n).
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wireframes](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#prototipo-lo-fi-wireframe).
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
