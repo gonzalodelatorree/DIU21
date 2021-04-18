@@ -52,7 +52,7 @@ Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low
 
 |Label|Descripción|
 |---------------------|--------------------------------------|
-|Cuenta|Sección que lleva a la cuenta del usuario|
+|Cuenta|Sección que lleva a la cuenta del usuario (se muestra con un icono de un boceto de persona)|
 |Registrarse|Método para registar un nuevo usuario|
 |Terminos y condiciones|Visualización de los términos y condiciones de la aplicación|
 |Iniciar Sesión|Método para que un usuario inicie sesión|
@@ -64,8 +64,8 @@ Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low
 |Actividades|Sección en la que se puede realizar la reserva de actividades|
 |Actividad|Actividad individual que el usuario puede reservar|
 |Reservar|Reserva la actividad para el usuario|
-|Información|Muestra información de la actividad|
-|Filtros|Apartado de filtros que el usuario puede seleccionar para que se le muestren las actividades más acordes|
+|Información|Muestra información de la actividad (se muestra como un boton con una "i")|
+|Filtros|Apartado de filtros que el usuario puede seleccionar para que se le muestren las actividades más acordes (se muestra como un boton de embudo)|
 |PACKS|Sección de reserva de packs|
 |PACK|Conjunto de visitas y actividades que el usuario puede reservar|
 |Añadir Actividad|Añade una actividad a un pack|
@@ -74,8 +74,8 @@ Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low
 |Ver en el mapa|Visualización mediante un mapa del lugar que se va a visitar|
 |Info del sitio|Información del lugar que se va a visitar|
 |Resumen|Resumen del viaje que muestra la planificación de las actividades en orden cronológico y por días|
-|Filtros|Apartado de filtros que el usuario puede seleccionar para que se le muestren los packs más acordes|
-|Ayuda|Sección de ayuda al usuario|
+|Filtros|Apartado de filtros que el usuario puede seleccionar para que se le muestren los packs más acordes (se muestra como un boton de embudo)|
+|Ayuda|Sección de ayuda al usuario (se muestra como un icono de una interrogación)|
 |FAQ|Sección de preguntas frecuentes|
 |Contacto|Muestra varias opciones de contacto con la organización|
 |Ayuda por teléfono|Teléfono de ayuda al cliente|
