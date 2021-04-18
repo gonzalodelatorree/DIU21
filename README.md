@@ -96,7 +96,7 @@ En el caso de Ana González ([Journey Map](https://github.com/gonzalodelatorree/
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-Un User map  es un diagrama nos muestra los pasos que sigue un cliente durante su relación con un servicio o empresa. Por su parte, un Task Flow es un diagrama que muestra el trayecto lógico que debe realizar un usuario para realizar una tarea determinada.
+Un User map es un diagrama que nos muestra los pasos que sigue un cliente durante su relación con un servicio o empresa. Por su parte, un Task Flow es un diagrama que muestra el trayecto lógico que debe realizar un usuario para realizar una tarea determinada.
 
 La diferencia entre ellos es que el primero se basa en la relación del cliente con un producto y el segundo en la relación del cliente con un proceso determinado.
 
