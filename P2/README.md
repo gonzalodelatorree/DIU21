@@ -2,13 +2,19 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+[Feedback Grid](https://github.com/gonzalodelatorree/DIU21/blob/master/P2/feedback_grid.pdf)
+* Mapas de empatía
+![Empathy Map 1](empathy_map_1.png)
+![Empathy Map 2](empathy_map_2.png)
+* Points of View 
+![POV 1](pov_1.png)
+![POV 2](pov_2.png)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+GeoLAND es un proyecto de carácter privado orientado a proveer al público un conjunto de actividades al aire libre en estrecha relación con el paisaje campestre en el que se desarrollan, tales como piragüismo, escalada, caminatas, paseos turísticos...
 
+Más información en el siguiente diagrama:
+![ScopeCanvas](scope_canvas.png)
 
 ### TASK ANALYSIS
 
@@ -18,9 +24,9 @@ En nuestra aplicación hay 3 tipos de usuarios que destacan:
 
 * GRUPO 2: este tipo de persona vive en España y en alguna escapada a la zona de Granada reservan alguna actividad en concreto o un pack completo.
 
-* GRUPO 3: este grupo esta formado por personas extranjeras que vienen a Andalucía para hacer turismo en varios sitios distintos por lo tanto reservan packs de actividades.
+* GRUPO 3: este grupo esta formado por personas extranjeras que vienen a Andalucía para hacer turismo en varios sitios distintos, por lo tanto reservan packs de actividades.
 
-Por lo tanto como tenemos 3 tipos de usuarios bien marcados, vamos a hacer el analisis de tareas con una Task Matrix.
+Por lo tanto como tenemos 3 tipos de usuarios bien marcados. Vamos a hacer el análisis de tareas con una Task Matrix.
 
 Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low(L)
 
