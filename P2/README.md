@@ -15,7 +15,7 @@
 ![POV 2](pov_2.png)
 
 ### PROPUESTA DE VALOR
-GeoLAND es un proyecto de carácter privado orientado a proveer al público un conjunto de actividades al aire libre en estrecha relación con el paisaje campestre en el que se desarrollan, tales como piragüismo, escalada, caminatas, paseos turísticos...
+GeoLAND es un proyecto de financiación pública orientado a proveer al público un conjunto de actividades al aire libre en estrecha relación con el paisaje campestre en el que se desarrollan, tales como piragüismo, escalada, caminatas, paseos turísticos...
 
 Más información en el siguiente diagrama:
 ![ScopeCanvas](scope_canvas.png)
@@ -97,8 +97,10 @@ Los valores de la tabla según el uso de la funcion son: High(H), Medium(M), Low
 
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
 
+![Bocetos](bocetos.png)
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+### Conclusiones
+
+En esta etapa hemos aprendido a hacer cada uno de los diagramas, en tanto en cuanto los hemos hecho todos (aunque algunos no eran necesarios); y a integrar en nuestro análisis una visión más completa de los usuarios que hacen uso de los productos o servicios de nuestro proyecto, mediante las herraminetas que se nos han dado.
