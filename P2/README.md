@@ -1,13 +1,17 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-[Feedback Grid](https://github.com/gonzalodelatorree/DIU21/blob/master/P2/feedback_grid.pdf)
+* Malla receptora de información: [Feedback Grid](https://github.com/gonzalodelatorree/DIU21/blob/master/P2/feedback_grid.pdf)
 * Mapas de empatía
+
 ![Empathy Map 1](empathy_map_1.png)
+
 ![Empathy Map 2](empathy_map_2.png)
-* Points of View 
+
+* Points of View
+
 ![POV 1](pov_1.png)
+
 ![POV 2](pov_2.png)
 
 ### PROPUESTA DE VALOR
