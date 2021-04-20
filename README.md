@@ -73,7 +73,7 @@ En el caso de Ana González ([Journey Map](https://github.com/gonzalodelatorree/
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-Hemos elaborado diagramas para cada uno de los tres tipos, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios al que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideacion).
+Hemos elaborado diagramas para cada uno de los tres tipos, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios al que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideación).
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
