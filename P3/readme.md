@@ -15,6 +15,7 @@ MockUps:
 ![Mockups](mockups.png)
 
 Vídeo mostrando los diseños de forma interactiva:
+[![APP Funcionamiento](https://img.youtube.com/vi/fBKtr0mVpb8/0.jpg)](https://youtu.be/fBKtr0mVpb8)
 
 
 ## Documentación: Publicación del Case Study
