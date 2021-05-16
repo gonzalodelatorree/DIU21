@@ -74,15 +74,15 @@ En el caso de Ana González ([Journey Map](https://github.com/gonzalodelatorree/
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Herramientas de análisis (ideación)
 ----
 
-Hemos elaborado diagramas de tipo Feedback Grid, Empathy Map y Points of View, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios al que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideación).
+Hemos elaborado diagramas de tipo Feedback Grid, Empathy Map y Points of View, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios a los que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideación).
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Nuestra visión para el proyecto y su plasmación en un diagrama se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#propuesta-de-valor). 
+Realizamos un Scope Canvas para mostar la propuesta de valor de nuestro el proyecto. Su plasmación en un diagrama se encuentra [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#propuesta-de-valor). 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -136,7 +136,10 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Vamos a confeccionar finalmente los mockups de la aplicación móvil para saber cómo sería el producto final.
+Hemos utilizado Figma, un software online que descubrimos y nos ha facilitado mucho la tarea.
+
+Mockups y demostración interactiva [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P3#mockup-layout-hi-fi)
 
 
 ![Método UX](img/caseStudy.png) 3.e Video-Presentación del proyecto.
@@ -145,6 +148,8 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 Hemos realizado un video-presentación comentando brevemente el desarrollo de nuestro proyecto:
 
 [![Presentamos GeoLAND](https://img.youtube.com/vi/h6zmi457jQ0/0.jpg)](https://youtu.be/h6zmi457jQ0)
+
+[Valoración final](https://github.com/gonzalodelatorree/DIU21/tree/master/P3#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
 
 ## Paso 4. Evaluación 
