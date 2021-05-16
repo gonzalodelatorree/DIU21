@@ -9,7 +9,7 @@ Proyecto: GeoLAND
 Descripción: aplicación desarrollada para que los usuarios puedan gestionar y planificar su visita a la provincia de Granada y Andalucía y así conseguir incentivar el turismo rural y local.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](logo_large.png)
 
 Miembros
  * :bust_in_silhouette:   [Gonzalo de la Torre Martínez](https://github.com/gonzalodelatorree) :octocat:     
@@ -77,7 +77,7 @@ En el caso de Ana González ([Journey Map](https://github.com/gonzalodelatorree/
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-Hemos elaborado diagramas para cada uno de los tres tipos, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios al que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideación).
+Hemos elaborado diagramas de tipo Feedback Grid, Empathy Map y Points of View, para que nos permitiesen valorar con mayor acierto el ámbito de análisis de usuarios al que nos circunscribimos. Los diagramas se encuentran [aquí](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#ideación).
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -94,7 +94,7 @@ La diferencia entre ellos es que el primero se basa en la relación del cliente 
 Nosotros hemos realizado una [Task Matrix](https://github.com/gonzalodelatorree/DIU21/tree/master/P2#task-analysis).
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c Arquitectura de información (Sitemap y Labelling) 
 ----
 
 
@@ -139,7 +139,7 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+![Método UX](img/caseStudy.png) 3.e Video-Presentación del proyecto.
 -----
 
 Hemos realizado un video-presentación comentando brevemente el desarrollo de nuestro proyecto:
