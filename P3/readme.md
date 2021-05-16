@@ -22,6 +22,7 @@ Vídeo mostrando los diseños de forma interactiva:
 Hemos realizado un video-presentación comentando brevemente el desarrollo de nuestro proyecto:
 
 [![Presentamos GeoLAND](https://img.youtube.com/vi/h6zmi457jQ0/0.jpg)](https://youtu.be/h6zmi457jQ0)
+
 La realización del video presentación ha sido llevada a cabo mediante la herramienta online Canva (con versión gratuita y muy cómoda y facil de usar) y el montaje del vídeo ha sido con Adobe Premiere.
 
  - Como valoración final, podemos decir que nos ha resultado una práctica realmente entretenida, aunque la que más tiempo nos ha llevado (por todo el trabajo de diseño que hay que realizar). La parte que ha resultado probablemnte más engorrosa han sido los Guidelines por su parte de investigación de diferentes lineas de estilos: en cambio, la realización de Landing Page y Mockups ha sido (aunque costosa en niveles de tiempo) más entretenida.
