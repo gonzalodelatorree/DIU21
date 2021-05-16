@@ -172,7 +172,7 @@ Mockups y demostración interactiva [aquí](https://github.com/gonzalodelatorree
 ![Método UX](img/caseStudy.png) 3.e Video-Presentación del proyecto.
 -----
 
-Hemos realizado un video-presentación comentando brevemente el desarrollo de nuestro proyecto:
+Hemos realizado un [video-presentación](https://youtu.be/h6zmi457jQ0) comentando brevemente el desarrollo de nuestro proyecto:
 
 [![Presentamos GeoLAND](https://img.youtube.com/vi/h6zmi457jQ0/0.jpg)](https://youtu.be/h6zmi457jQ0)
 
