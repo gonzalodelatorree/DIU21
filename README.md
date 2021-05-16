@@ -115,23 +115,50 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Gracias a www.canvas.com hemos realizado el mooodboard. Como nuestra aplicación está relacionada con actividades de carácter campestre hemos utilizados colores apropiados para ello, como el marrón o el naranja. Hemos usado una tipografía sencilla el logotipo ha sido creado también con las mismas directrices. Aquí el moodboard:
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Moodboard](P3/moodboard.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Para la landing page hemos hecho uso de Google Sites. Hemos incorporado los colores presentes en la paleta de colores del moodboard; además hemos incorporado nuestro vídeo de presentación y un link de descarga de la aplicación, que estaría en la App Store. Aquí el enlace:
 
->>> Plantear Landing Page 
+[Web GeoLAND](https://sites.google.com/view/diu1wombats/startseite)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+El diseño visual de la aplicación sigue unas directrices respecto de unos patrones estándares para interfaces de usuario que hemos incorporado de la página web http://ui-patterns.com/. A continuación detallamos aquellos que hemos implementado:
+
+ **Input prompt**
+En la página de acceso a la cuenta del usuario los espacios a rellenar del usuario y la contraseña han sido debidamente complementados con texto de fondo para indicar con claridad la información que debe ser introducida por el usuario.
+
+**Undo**
+Cada página lleva integrado un botón en la esquina superior izquierda de la pantalla para retroceder a  la página anterior en la que el usuario se encontraba.
+
+**Categorization**
+Para el acceso a las actividades, han sido categorizadas en parapente, piraguas, paintball, escalada, etc.
+
+**Favorites**
+El usuario puede guardar en favoritos las actividades que le interesen para acceder más tarde mientras ojea las actividades que tiene a su disposición.
+
+**Frequently asked questions**
+Se ha incluido una sección dentro de “Ayuda” para que el usuario pueda acceder a las preguntas más frecuentes sobre el sitio.
+
+**ProductPage**
+Para los productos que se ofertan en la aplicación, en nuestro caso actividades, se incluyen una imagen descriptiva, una descripción acorde y un precio acompañante.
+
+### Guidelines
+Hemos usado colores rupestres: distintos matices de marrón, naranja y negro. Esta elección viene justificada por las características de las actividades que proporciona la aplicación, pues están todas ellas orientadas al aire libre, donde predomina especialmente el color marrón asociado a la tierra; así os usuarios, de manera subconsciente, estarán predispuestos al contenido que se les ofrece.
+
+La iconografía que se ha utilizado es de diseño simple y autodescriptiva para aligerar el peso mental que los usuarios que navegan por la aplicación pueden llegar a tener.
+
+Se ha procurado mantener contrastes entre colores para facilitar la accesibilidad a los usuarios, tratando de mantener un mínimo de legibilidad en las zonas de texto presentes a los largo de la aplicación.
+
+Las imágenes que vienen incluidas tratan de reflejar el aire campestre que tratamos de emitir, además de un componente emocional: de diversión para actividades más ligeras y de riesgo para actividades más peligrosas.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
