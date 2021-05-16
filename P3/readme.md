@@ -12,6 +12,9 @@ Para hacer la landing page hemos hecho uso de Google Sites, una herramienta que 
 
 [Web GeoLAND](https://sites.google.com/view/diu1wombats/startseite)
 
+![Landing1](lp1.jpg)
+![Landing2](lp2.jpg)
+
 
 ## Mockup: LAYOUT HI-FI
 
