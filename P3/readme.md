@@ -4,7 +4,7 @@
 
 Hemos utilizado la herramienta online www.canva.com para realizar el moodboard. Ofrece un abanico amplio de posibilidades para trabajar eficientemente y con resultados satisfactorios. En el siguiente moodoboard hemos reflejado el carácter rupestre que tiene nuestra aplicación:
 
-![Moodboard](moodboard.jpg)
+![Moodboard](mood.jpg)
 
 ## Landing Page
 
@@ -12,8 +12,8 @@ Para hacer la landing page hemos hecho uso de Google Sites, una herramienta que 
 
 [Web GeoLAND](https://sites.google.com/view/diu1wombats/startseite)
 
-![Landing1](lp1.jpg)
-![Landing2](lp2.jpg)
+![Landing1](lp1.png)
+![Landing2](lp2.png)
 
 
 ## Mockup: LAYOUT HI-FI
