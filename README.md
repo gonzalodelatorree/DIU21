@@ -142,9 +142,9 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Hemos realizado un video-presentación comentando brevemente el desarrollo de nuestro proyecto:
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[![Presentamos GeoLAND](https://img.youtube.com/vi/h6zmi457jQ0/0.jpg)](https://youtu.be/h6zmi457jQ0)
 
 
 ## Paso 4. Evaluación 
