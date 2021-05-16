@@ -117,7 +117,7 @@ Para hacer un primer acercamiento al diseño de la app realizamos diferentes [Wi
 
 Gracias a www.canvas.com hemos realizado el mooodboard. Como nuestra aplicación está relacionada con actividades de carácter campestre hemos utilizados colores apropiados para ello, como el marrón o el naranja. Hemos usado una tipografía sencilla el logotipo ha sido creado también con las mismas directrices. Aquí el moodboard:
 
-![Moodboard](P3/moodboard.jpg)
+![Moodboard](P3/mood.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
