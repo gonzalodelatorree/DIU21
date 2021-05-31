@@ -232,7 +232,12 @@ A continuación mostramos las respuestas de los usuarios a las preguntas (resume
 | 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  1 |  2 |  1 |
 |    |                                                             Valoración final (SUS Score) | 77,5 | 60 | 90 |
 
-### Resultado del cuestionario SUS para GeoLAND
+Podemos ver que GeoLAND tiene una buena puntuación SUS, por lo tanto, podemos decir que su usabilidad es buena, aunque 
+para perfiles no tan acostumbrado a la tecnología puede ser una App más engorrosa.
+Podemos destacar que los usuarios de la encuesta suponen que será una app fácil de usar para nuevos usuarios, aunque en 
+contrapunto podemos ver que algunos usuarios pueden pensar que hay una ligera inconsistencia en las funciones.
+
+### Resultado del cuestionario SUS para Intero
 |    | PREGUNTAS                                                                                |  4 |  5 |  6 |
 |----|------------------------------------------------------------------------------------------|:--:|:--:|:--:|
 |  1 | Creo que me gustará visitar con frecuencia este website                                  |  5 |  3 |  5 |
@@ -247,8 +252,10 @@ A continuación mostramos las respuestas de los usuarios a las preguntas (resume
 | 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  4 |  2 |  2 |
 |    |                                                             Valoración final (SUS Score) | 82,5 | 60 | 92,5 |
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Intero también obtiene una buena puntuanción SUS y también podemos decir que es bastante usable, quizá su punto más débil
+puede ser que a algunos usuarios le da la sensación de que la curva de aprendizaje puede ser no muy rápida.
+A favor de esta aplicación podemos destacar que a los usuarios le da la sensación de que no tiene funcionalidades demasiado
+complejas.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
