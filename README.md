@@ -262,7 +262,7 @@ complejas.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+[UsabilityReview de Intero](https://github.com/gonzalodelatorree/DIU21/blob/master/P4/Usability_Report_Intero.pdf)
 
 Visto el trabajo que han realizado nuestros compañeros de DIU1.Intero, nos ha parecido muy buen proyecto.
 Creemos que está muy limpio y bien explicado y se nota que se le ha puesto esfuerzo.

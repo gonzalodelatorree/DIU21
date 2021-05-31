@@ -67,7 +67,7 @@ El equipo [DIU1.Singapur](https://github.com/Groctel/DIU21) ha desarrollado Inte
 
 En este enlace puedes encontrar el documento que contiene el Usability Report del proyecto Intero.
 
->>> [Documento]()
+>>> [Documento](https://github.com/gonzalodelatorree/DIU21/blob/master/P4/Usability_Report_Intero.pdf)
 
 
 ## Conclusiones
