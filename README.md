@@ -186,7 +186,7 @@ Hemos realizado un [video-presentación](https://youtu.be/h6zmi457jQ0) comentand
 ----
 
 
-Se nos ha asignado el caso de estudio del equipo [DIU1.Singapur]().
+Se nos ha asignado el caso de estudio del equipo [DIU1.Singapur](https://github.com/Groctel/DIU21).
 
 Este equipo ha desarrollado Intero, una app de economía colaborativa basada en el couchsurfing. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
@@ -195,8 +195,8 @@ Este equipo ha desarrollado Intero, una app de economía colaborativa basada en 
 ----
 
 Realizaremos un A/B testing donde:
- - A -> GeoLAND (DIU1.Wombats)
- - B -> Intero  (DIU1.Singapur)
+ - A -> GeoLAND (DIU1.Wombats, este GitHub)
+ - B -> Intero  ([DIU1.Singapur](https://github.com/Groctel/DIU21))
  
 Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres primeras personas serán las participantes en el test del equipo A (GeoLAND) y las tres restantes participarán en el estudio del caso B.
 
