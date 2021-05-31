@@ -213,9 +213,39 @@ Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+A continuación mostramos las respuestas de los usuarios a las preguntas (resumen) y la puntuación SUS alcanzada.
+
+![Encuesta](P4/respuestaEncuesta.png)
+
+### Resultado del cuestionario SUS para GeoLAND
+|    | PREGUNTAS                                                                                |  1 |  2 |  3 |
+|----|------------------------------------------------------------------------------------------|:--:|:--:|:--:|
+|  1 | Creo que me gustará visitar con frecuencia este website                                  |  3 |  2 |  4 |
+|  2 | Encontré el website innecesariamente complejo                                            |  1 |  3 |  1 |
+|  3 | Pensé que era fácil utilizar este website                                                |  4 |  3 |  5 |
+|  4 | Creo que necesitaría del apoyo de un experto para recorrer el website                    |  1 |  2 |  1 |
+|  5 | Encontré las funciones del website bastante bien integradas                              |  2 |  4 |  4 |
+|  6 | Pensé que había demasiada inconsistencia en el website                                   |  2 |  3 |  2 |
+|  7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  4 |  4 |  5 |
+|  8 | Encontré el website muy grande al recorrerlo                                             |  1 |  3 |  1 |
+|  9 | Me sentí muy confiado en el manejo del website                                           |  4 |  4 |  4 |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  1 |  2 |  1 |
+|    |                                                             Valoración final (SUS Score) | 77,5 | 60 | 90 |
+
+### Resultado del cuestionario SUS para GeoLAND
+|    | PREGUNTAS                                                                                |  4 |  5 |  6 |
+|----|------------------------------------------------------------------------------------------|:--:|:--:|:--:|
+|  1 | Creo que me gustará visitar con frecuencia este website                                  |  5 |  3 |  5 |
+|  2 | Encontré el website innecesariamente complejo                                            |  1 |  2 |  1 |
+|  3 | Pensé que era fácil utilizar este website                                                |  5 |  3 |  5 |
+|  4 | Creo que necesitaría del apoyo de un experto para recorrer el website                    |  1 |  2 |  1 |
+|  5 | Encontré las funciones del website bastante bien integradas                              |  4 |  3 |  5 |
+|  6 | Pensé que había demasiada inconsistencia en el website                                   |  1 |  2 |  1 |
+|  7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  5 |  2 |  3 |
+|  8 | Encontré el website muy grande al recorrerlo                                             |  4 |  1 |  1 |
+|  9 | Me sentí muy confiado en el manejo del website                                           |  5 |  2 |  5 |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  4 |  2 |  2 |
+|    |                                                             Valoración final (SUS Score) | 82,5 | 60 | 92,5 |
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
