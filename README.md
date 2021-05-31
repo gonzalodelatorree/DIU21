@@ -206,8 +206,8 @@ Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres
 | 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A 
 | 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A 
 | 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B 
-| 5  | H / 53   | Camionero     | Baja        | Frialdad, trabajador, responsable    | Móvil      | B 
-| 6  | H / 18   | Estudiante  | Media       | Simpatía, vagueza, alegría     | Móvil        | B 
+| 5  | H / 53   | Agricultor     | Baja        | Frialdad, trabajador, responsable    | Móvil      | B 
+| 6  | M / 18   | Estudiante  | Media       | Simpatía, vagueza, alegría     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
