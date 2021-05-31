@@ -262,14 +262,21 @@ complejas.
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
-
-
->>> Valoración personal 
+Visto el trabajo que han realizado nuestros compañeros de DIU1.Intero, nos ha parecido muy buen proyecto.
+Creemos que está muy limpio y bien explicado y se nota que se le ha puesto esfuerzo.
 
 ## Conclusión final / Valoración de las prácticas
 
+Para cerrar la explicación de nuestro proyecto, nos gustaría decir que el desarrollo de estas prácticas nos ha parecido
+muy interesante, ya que es la primera vez que vemos en la carrera una asignatura que se centre en el usuario.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Gracias a las prácticas y a las clases de teoría hemos podido ir viendo y aprendiendo muchos de los conceptos básicos y
+herramientas que nos pueden ser útiles para poder desarrollar desde 0 una aplicación. Además el uso de GitHub para la 
+exposición de nuestro proyecto nos ha parecido realmente útil tanto como para los profesores como para poder trabajar 
+con nuestro compañero.
+
+Es por todo esto que podemos decir que nos ha gustado mucho tanto el enfoque que tiene la parte práctica de la asignatura 
+y como se ha llevado a cabo.
 
 
 
