@@ -186,21 +186,28 @@ Hemos realizado un [video-presentación](https://youtu.be/h6zmi457jQ0) comentand
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se nos ha asignado el caso de estudio del equipo [DIU1.Singapur]().
+
+Este equipo ha desarrollado Intero, una app de economía colaborativa basada en el couchsurfing. Los usuarios ofrecen sus casas para estancias cortas a viajeros dinámicos que no quieren depender de un hotel.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Realizaremos un A/B testing donde:
+ - A -> GeoLAND (DIU1.Wombats)
+ - B -> Intero  (DIU1.Singapur)
  
+Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres primeras personas serán las participantes en el test del equipo A (GeoLAND) y las tres restantes participarán en el estudio del caso B.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 1  | H / 31   | Estibador  | Media       | Introvertido, apurado, sorpresa | Móvil       | A 
+| 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A 
+| 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A 
+| 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B 
+| 5  | H / 53   | Camionero     | Baja        | Frialdad, trabajador, responsable    | Móvil      | B 
+| 6  | H / 18   | Estudiante  | Media       | Simpatía, vagueza, alegría     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -221,24 +228,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
