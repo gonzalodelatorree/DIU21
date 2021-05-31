@@ -194,6 +194,8 @@ Este equipo ha desarrollado Intero, una app de economía colaborativa basada en 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
+[Resumen Analisis de Usabilidad](https://github.com/gonzalodelatorree/DIU21/tree/master/P4)
+
 Realizaremos un A/B testing donde:
  - A -> [GeoLAND](https://github.com/gonzalodelatorree/DIU21/tree/master/P4#caso-1) (DIU1.Wombats)
  - B -> [Intero](https://github.com/gonzalodelatorree/DIU21/tree/master/P4#caso-2) (DIU1.Singapur)
