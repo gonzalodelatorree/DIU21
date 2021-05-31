@@ -202,12 +202,12 @@ Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | SUS Score
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ------ |
-| 1  | H / 31   | Estibador  | Media       | Introvertido, apurado, sorpresa | Móvil       | A |
-| 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A |
-| 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A |
-| 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B |
-| 5  | H / 53   | Agricultor     | Baja        | Relajado, trabajador, enfado    | Móvil      | B |
-| 6  | M / 18   | Estudiante  | Media       | Activo, deportista, alegría     | Móvil        | B |
+| 1  | H / 31   | Estibador  | Media       | Introvertido, apurado, sorpresa | Móvil       | A | 92,5
+| 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A | 60
+| 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A | 82,5
+| 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B | 77,5
+| 5  | H / 53   | Agricultor     | Baja        | Relajado, trabajador, enfado    | Móvil      | B | 60
+| 6  | M / 18   | Estudiante  | Media       | Activo, deportista, alegría     | Móvil        | B | 90
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
