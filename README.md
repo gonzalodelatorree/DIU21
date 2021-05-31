@@ -200,14 +200,14 @@ Realizaremos un A/B testing donde:
  
 Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres primeras personas serán las participantes en el test del equipo A (GeoLAND) y las tres restantes participarán en el estudio del caso B.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| 1  | H / 31   | Estibador  | Media       | Introvertido, apurado, sorpresa | Móvil       | A 
-| 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A 
-| 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A 
-| 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B 
-| 5  | H / 53   | Agricultor     | Baja        | Frialdad, trabajador, responsable    | Móvil      | B 
-| 6  | M / 18   | Estudiante  | Media       | Simpatía, vagueza, alegría     | Móvil        | B 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | SUS Score
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ------ |
+| 1  | H / 31   | Estibador  | Media       | Introvertido, apurado, sorpresa | Móvil       | A |
+| 2  | M / 66   | Jubilada  | Baja       | Cansada, charlatana, miedo       | Móvil        | A |
+| 3  | H / 25   | Estudiante     | Avanzado        | Introvertido, aventurero, enfado    | Móvil      | A |
+| 4  | M / 33   | Fotógrafa  | Avanzado       | Trabajadora, fotofílica, miedo     | Móvil        | B |
+| 5  | H / 53   | Agricultor     | Baja        | Relajado, trabajador, enfado    | Móvil      | B |
+| 6  | M / 18   | Estudiante  | Media       | Activo, deportista, alegría     | Móvil        | B |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
