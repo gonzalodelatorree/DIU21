@@ -195,8 +195,8 @@ Este equipo ha desarrollado Intero, una app de economía colaborativa basada en 
 ----
 
 Realizaremos un A/B testing donde:
- - A -> GeoLAND (DIU1.Wombats, este GitHub)
- - B -> Intero  ([DIU1.Singapur](https://github.com/Groctel/DIU21))
+ - A -> [GeoLAND](https://github.com/gonzalodelatorree/DIU21/tree/master/P4#caso-1) (DIU1.Wombats)
+ - B -> [Intero](https://github.com/gonzalodelatorree/DIU21/tree/master/P4#caso-2) (DIU1.Singapur)
  
 Hemos elegido 6 personas para que realicen el estudio de los dos casos. Las tres primeras personas serán las participantes en el test del equipo A (GeoLAND) y las tres restantes participarán en el estudio del caso B.
 
